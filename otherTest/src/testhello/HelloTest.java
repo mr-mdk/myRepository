@@ -1,7 +1,13 @@
+package testhello;
+import static Print.*;
+
+
 public class HelloTest {
 
+
 	public static void main(String[] args) {
-		System.out.println("hello");
+		println("test");
 	}
+
 
 }
