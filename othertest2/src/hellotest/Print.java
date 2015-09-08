@@ -1,5 +1,5 @@
 package hellotest;
-final class PrintTest<E> {
+final class Print<E> {
 	public static final <E> void print(E data) {
 		System.out.print(data);
 	}

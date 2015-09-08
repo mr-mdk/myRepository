@@ -1,5 +1,6 @@
 package hellotest;
-import static hellotest.PrintTest.*;
+
+import static hellotest.Print.*;
 
 public class HelloTest {
 
